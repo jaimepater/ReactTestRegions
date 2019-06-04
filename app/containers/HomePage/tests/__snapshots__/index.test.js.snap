@@ -1,9 +1,33 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<HomePage /> should render and match the snapshot 1`] = `
-<h1>
-  <span>
-    This is the HomePage container!
-  </span>
-</h1>
+<section>
+  <div
+    class="Container-u38a83-0 jDuhNh container"
+  >
+    <div
+      class="mt-3"
+    >
+      <h1
+        class="H1-xsrgru-0 dYBbvb"
+      >
+        Tabla por Regiones
+      </h1>
+      <form
+        class="Form-sc-15bnz0c-0 jEhIrw"
+      >
+        <div
+          class="form-group"
+        >
+          <input
+            class="Input-wun2o8-0 bmUDTN form-control-sm form-control-file"
+            id="file"
+            type="file"
+          />
+        </div>
+      </form>
+    </div>
+    <div />
+  </div>
+</section>
 `;
